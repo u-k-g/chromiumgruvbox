@@ -3,7 +3,7 @@
 <details open>
 <summary><strong>overview</strong></summary>
 
-`chromium-gruvbox` is a minimal chromium theme based on **gruvbox dark**. it uses warm backgrounds, soft foregrounds and a restrained gold accent.
+`chromium-gruvbox` is a minimal chromium theme based on **gruvbox dark hard**. it uses the hard variant's deep background, warm surfaces, soft foregrounds and a restrained gold accent.
 
 - gruvbox colors throughout the browser ui
 - distinct normal and incognito frames
@@ -25,13 +25,21 @@
 <details>
 <summary><strong>palette</strong></summary>
 
+- hard background `#1d2021`
 - base `#282828`
 - surface `#3c3836`
 - overlay `#504945`
-- incognito `#1d2021`
 - text `#ebdbb2`
 - secondary text `#a89984`
 - accent `#d79921`
+
+</details>
+
+<details>
+<summary><strong>accent variants</strong></summary>
+
+Testable blue, aqua, purple, green and red accent themes are in `variants/`.
+Load a variant's directory as an unpacked extension to compare it with the main theme.
 
 </details>
 

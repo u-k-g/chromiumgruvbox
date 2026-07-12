@@ -5,7 +5,12 @@
 !swatches/
 !swatches/**/
 
+!variants/
+!variants/**/
+
 !manifest.json
 !README.md
+
+!variants/*/manifest.json
 
 !*.png
