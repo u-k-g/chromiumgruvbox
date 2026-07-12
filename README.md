@@ -8,7 +8,7 @@
 - gruvbox colors throughout the browser ui
 - distinct normal and incognito frames
 - readable tab, toolbar and new-tab text
-- matching orange-to-gold folder colors where supported
+- an ordered, wide folder-color gradient centered on the theme accent
 
 </details>
 

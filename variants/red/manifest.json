@@ -11,8 +11,8 @@
       "ntp_background": [29, 32, 33], "ntp_header": [40, 40, 40], "ntp_link": [168, 153, 132], "ntp_text": [168, 153, 132]
     },
     "tab_group_color_palette": {
-      "grey_override": 350, "blue_override": 353, "red_override": 356, "yellow_override": 359, "green_override": 2,
-      "pink_override": 5, "purple_override": 8, "cyan_override": 11, "orange_override": 14
+      "grey_override": 330, "blue_override": 338, "red_override": 346, "yellow_override": 354, "green_override": 2,
+      "pink_override": 10, "purple_override": 18, "cyan_override": 26, "orange_override": 34
     },
     "tints": { "buttons": [-1, -1, -1], "frame": [-1, -1, -1], "frame_inactive": [-1, -1, -1], "frame_incognito": [-1, -1, -1], "frame_incognito_inactive": [-1, -1, -1] },
     "properties": { "ntp_logo_alternate": 1 }

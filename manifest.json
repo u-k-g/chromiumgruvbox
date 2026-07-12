@@ -32,15 +32,15 @@
     },
 
     "tab_group_color_palette": {
-      "grey_override": 30,
-      "blue_override": 33,
-      "red_override": 36,
-      "yellow_override": 39,
+      "grey_override": 10,
+      "blue_override": 18,
+      "red_override": 26,
+      "yellow_override": 34,
       "green_override": 42,
-      "pink_override": 45,
-      "purple_override": 48,
-      "cyan_override": 51,
-      "orange_override": 54
+      "pink_override": 50,
+      "purple_override": 58,
+      "cyan_override": 66,
+      "orange_override": 74
     },
 
     "tints": {
