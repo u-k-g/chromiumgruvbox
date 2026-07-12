@@ -7,7 +7,7 @@
 
 - gruvbox colors throughout the browser ui
 - a wide folder-color gradient centered on the theme accent
-<img width="1600" height="1045" alt="image" src="https://github.com/user-attachments/assets/0fa27f86-987b-4650-9c5b-a88138f1f8f8" />
+<img width="1600" height="1045" alt="image" src="https://github.com/user-attachments/assets/ac1fe1f4-444c-42ee-a8d8-d8f5628b0c64" />
 
 
 </details>
