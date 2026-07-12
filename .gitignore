@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+
+!swatches/
+!swatches/**/
+
+!manifest.json
+!README.md
+
+!*.png
